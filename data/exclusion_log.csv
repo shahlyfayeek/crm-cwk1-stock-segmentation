@@ -1,0 +1,18 @@
+Ticker,Rule,Detail
+APP,R2 Unequal history,First price on 2021-04-15
+COIN,R2 Unequal history,First price on 2021-04-14
+CEG,R2 Unequal history,First price on 2022-01-19
+EXE,R2 Unequal history,First price on 2021-02-10
+FDXF,R1 No data,No data downloaded
+FERG,R5 Volume error,27 day(s) with volume <= 0
+GEHC,R2 Unequal history,First price on 2022-12-15
+GEV,R2 Unequal history,First price on 2024-03-27
+HONA,R1 No data,No data downloaded
+Q,R1 No data,No data downloaded
+RDDT,R2 Unequal history,First price on 2024-03-21
+HOOD,R2 Unequal history,First price on 2021-07-29
+SNDK,R1 No data,No data downloaded
+SW,R5 Volume error,424 day(s) with volume <= 0
+SOLV,R2 Unequal history,First price on 2024-03-26
+VLTO,R2 Unequal history,First price on 2023-10-04
+VYLR,R1 No data,No data downloaded

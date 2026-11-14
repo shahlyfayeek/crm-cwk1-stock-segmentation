@@ -1,0 +1,13 @@
+Worked example share: MMM | Observation date: 2024-12-31
+Latest high-volume day: 2024-12-20
+Recency = obs date - event date = 11 calendar days
+60-session window runs from 2024-10-07 to 2024-12-31
+Frequency = number of High_volume_day = True in the window = 4
+Monetary = sum of 60 daily Close x Volume = USD 25,991,458,733
+By-hand R, F and M match the saved tables.
+Rolling baseline: 2890235.0 | Manual baseline: 2890235.0
+Test (a): 2.0m and 1.8m are not events, 2.5m is; F = 1, R = 4
+Test (b): event on the observation date gives R = 0
+Test (c): no event gives R missing and F = 0
+Test (d): Monetary = USD 12,000,000,000
+Test (e): 70 sessions < 80 needed, so it would be marked as insufficient history
