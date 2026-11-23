@@ -1,0 +1,8 @@
+Feature,Skew,Outliers_IQR
+Mean_Weekly_Return,0.8675161261848814,15
+Weekly_Beta,1.1036494871843625,10
+Recency,3.645784052628137,115
+Frequency,0.4247346184764164,2
+Monetary (raw),11.683796873806312,45
+Log_Monetary = log1p(M),1.0790573618432242,13
+"log1p(Recency) (comparison only, not used)",1.5832014581917597,113
